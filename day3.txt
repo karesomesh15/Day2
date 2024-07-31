@@ -1,0 +1,1 @@
+1)create  a java application to simulate the employee management salary system they are two types of employee constuctural employee and salary employee for salried employee the salary is calculated based on the attended days for constructual employee calculated based on number of hours the constuctual employee does not get any company benfits
